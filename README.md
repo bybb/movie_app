@@ -1,3 +1,3 @@
 # My Movie App
 
-React Js Study Project
+ReactJs Study Project
